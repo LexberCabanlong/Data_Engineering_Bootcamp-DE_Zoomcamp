@@ -35,3 +35,7 @@ terraform.rc
 
 *.json
 *.exe
+*.csv
+*.zip
+*.rar
+*.gz
